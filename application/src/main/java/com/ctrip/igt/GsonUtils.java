@@ -8,6 +8,7 @@ import java.util.Map;
 
 /**
  * Gson工具类
+ * author:zhengyu.nie
  */
 public final class GsonUtils {
     private static Gson gson = null;
