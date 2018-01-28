@@ -1,4 +1,4 @@
-package com.ctrip.igt;
+package com.ctrip.igt.gson.model;
 
 public class Father {
     private String name;

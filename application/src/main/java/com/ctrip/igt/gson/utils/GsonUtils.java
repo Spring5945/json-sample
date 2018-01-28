@@ -1,4 +1,4 @@
-package com.ctrip.igt;
+package com.ctrip.igt.gson.utils;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;

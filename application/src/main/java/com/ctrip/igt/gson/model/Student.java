@@ -1,4 +1,4 @@
-package com.ctrip.igt;
+package com.ctrip.igt.gson.model;
 
 import java.math.BigDecimal;
 
