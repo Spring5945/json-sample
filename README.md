@@ -1,4 +1,2 @@
-# Gson
-gsonutils
-
-本项目是基于google的gson进行开发的关于json序列化反序列化内容的项目，封装了gson一些api
+json框架demo
+json框架二次封装
